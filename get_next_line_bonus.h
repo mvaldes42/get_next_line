@@ -6,17 +6,15 @@
 /*   By: mvaldes <mvaldes@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/27 15:05:57 by mvaldes           #+#    #+#             */
-/*   Updated: 2020/02/21 13:29:21 by mvaldes          ###   ########.fr       */
+/*   Updated: 2020/02/21 13:41:36 by mvaldes          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_BONUS_H
 # define GET_NEXT_LINE_BONUS_H
-
-#ifndef BUFFER_SIZE
-# define BUFFER_SIZE 42
+# ifndef BUFFER_SIZE
+#  define BUFFER_SIZE 42
 # endif
-
 # define FD_SIZE 1024
 
 # include <unistd.h>
