@@ -6,14 +6,14 @@
 /*   By: mvaldes <mvaldes@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/27 15:05:57 by mvaldes           #+#    #+#             */
-/*   Updated: 2020/02/21 11:31:26 by mvaldes          ###   ########.fr       */
+/*   Updated: 2020/02/21 12:53:57 by mvaldes          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_BONUS_H
 # define GET_NEXT_LINE_BONUS_H
 
-# define BUFF_SIZE 8
+# define BUFFER_SIZE 8
 # define FD_SIZE 1024
 
 # include <unistd.h>
