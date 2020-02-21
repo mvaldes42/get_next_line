@@ -6,14 +6,12 @@
 /*   By: mvaldes <mvaldes@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/27 15:05:57 by mvaldes           #+#    #+#             */
-/*   Updated: 2020/02/21 12:54:02 by mvaldes          ###   ########.fr       */
+/*   Updated: 2020/02/21 13:23:52 by mvaldes          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
-
-# define BUFFER_SIZE 42
 
 # include <unistd.h>
 # include <stdlib.h>
